@@ -37,5 +37,6 @@ https://developers.google.com/maps/documentation/javascript/get-api-key
 
 # Commands 
 npm install
+
 ionic cordova run browser
 
