@@ -32,7 +32,8 @@ You need get key in Google Cloud Platform - Google Maps
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
 # index.html set your google maps key
-<script  src="https://maps.googleapis.com/maps/api/js?key=(ENTER YOUR KEY HERE)" async defer>
+<script  src="https://maps.googleapis.com/maps/api/js?key=(ENTER YOUR KEY HERE)" async defer></script>
+
 
 # Commands 
 npm install
