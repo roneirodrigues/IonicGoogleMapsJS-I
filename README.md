@@ -1,6 +1,6 @@
 # Ionic Google MapsJS I
 Ionic Google Maps JS I
-# ionic info
+# Ionic Info
 Ionic:
 
    Ionic CLI                     : 6.10.1 (C:\Users\ronei.rodrigues\AppData\Roaming\npm\node_modules\@ionic\cli)
